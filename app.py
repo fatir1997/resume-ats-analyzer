@@ -13,7 +13,7 @@ from pypdf import PdfReader
 # CONFIGURATION
 # ============================================================
 
-MODEL_NAME = "gemini-3.5-flash"
+MODEL_NAME = "gemini-3.4-flash"
 MAX_FILE_MB = 10
 
 
